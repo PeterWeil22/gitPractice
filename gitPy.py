@@ -1,4 +1,4 @@
 def tester ():
   x = 1 + 4 + 6
-  y = "teste pull"
+  y = "test pull"
   return x
